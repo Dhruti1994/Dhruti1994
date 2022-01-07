@@ -2,7 +2,7 @@
 - 👀 I’m interested in AI, ML, computer vision,Robotics,drone ,IOT,ROS
 - 🌱 I’m currently learning AI,ML,ROS
 - 💞️ I’m looking to collaborate on ...
-- 📫 you can reach me by mail dhrutidhara@spkmak.com
+- 📫 you can reach me by mail dhrutidhara@spk-mak.com,dhruti1357@gmail.com
 
 <!---
 Dhruti1994/Dhruti1994 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
